@@ -4,6 +4,7 @@ Voice recognition service
 This is a fork of the official Silhouette Seed project. If you want to have a first look at Silhouette, I suggest you have a look at the [official project](https://github.com/mohiva/play-silhouette-seed).
 
 ## Example
+- create postgresql db localy with table slickdb
 - sbt run
 
 ## Implemented Features
